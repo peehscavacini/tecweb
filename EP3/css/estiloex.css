@@ -1,0 +1,162 @@
+/* Exercicio 1 */
+
+.center {
+	text-align: center;
+	color: red;
+	font-family: verdana;
+	font-size: 12px;
+	line-height: 20px
+}
+.bordas{
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	
+	border-right-width: 2px;
+	border-right-color: black;
+	border-right-style: solid;
+	
+	
+	border-bottom-width: 2px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	
+	border-left-width: 2px;
+	border-left-color: black;
+	border-left-style: solid;
+}
+
+/* Exercicio 2 */
+.bordas1{
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	
+	border-right-width: 2px;
+	border-right-color: black;
+	border-right-style: solid;
+	
+	
+	border-bottom-width: 2px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	
+	border-left-width: 2px;
+	border-left-color: black;
+	border-left-style: solid;	
+}
+.titulo1{
+	text-align: center;
+	font-family: arial;
+	font-size: 23px;
+	font-weight:bold;	
+}
+.frase1{
+	text-align: justify;
+	font-family: arial;
+	font-size: 12px;
+	color:#4F81BD;
+}
+.linha{
+	color:#00B050;
+}
+.frase2{
+	text-align: justify;
+	font-family: arial;
+	font-size: 12px;
+	color:#00B050;
+	font-weight:bold;	
+	
+}
+.frase3{
+	text-align: justify;
+	font-family: arial;
+	font-size: 12px;
+	color:#FFC000;
+	font-style:italic;	
+	
+}
+.frase4{
+	text-align: justify;
+	font-family: arial;
+	font-size: 12px;
+	color:#FF0000;
+	text-decoration:underline;
+}
+.frase5{
+	text-align: justify;
+	font-family: "Times New Roman";
+	font-size: 12px;
+	color:#8064A2;
+	margin-left:30px;
+}
+.frase6{
+	text-align: justify;
+	font-family: "Times New Roman";
+	font-size: 12px;
+	color:#8064A2;
+	margin-left:60px;
+}
+	
+
+
+
+/* Exercicio 3 */
+.tabela{
+	height:200px;
+	width:25%;
+}
+.titulo{
+	font-weight:bold;
+	text-align:center;
+	font-family:arial;
+}
+
+.vermelho {
+	text-align: center;
+	color: red;
+	font-family:arial;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.verde{
+	text-align:center;
+	color:green;
+	font-family:arial;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.fundo2{
+	background-color:#A9A9A9;
+	font-family:arial;
+}
+.fundo1{
+	font-family:arial;
+}
+
+/* Exercicio 4 */
+
+.imagem{
+	float:left;
+}
+
+.paragrafo1{
+	text-align: justify;
+	float:left;
+	font-family:Arial;
+	
+}
+
+.paragrafo2{
+	text-align: justify;
+	float: left;	
+	font-family:Arial;
+	margin-top:10px;
+	margin-right:300px;
+
+}
+
+
+
